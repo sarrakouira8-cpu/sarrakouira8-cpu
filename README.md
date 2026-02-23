@@ -38,14 +38,6 @@
 - Databases (MySQL)
 - Git and GitHub
 
----
-
-## 📈 GitHub Stats
-
-![Sarra's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 🎯 Goals
 
 - Improve programming skills
@@ -55,6 +47,4 @@
 
 ---
 
-## 📫 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
